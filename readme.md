@@ -12,6 +12,6 @@
 <br />
 <br />
 
-[website]: https://www.youtube.com/channel/UCkRSX0i62PVmDCsYFOvvU1A
+[youtube]: https://www.youtube.com/channel/UCkRSX0i62PVmDCsYFOvvU1A
 
 
