@@ -4,6 +4,7 @@
 - Je suis actuellement en en première année d'étude
 - J'apprend le c++, html/css, sql/BD, tout ça sur Linux
 - Je suis en quête de détruire l'anneau
+- FunFact : J'adore le sport notemment le streetworkout
 
 ### Mes réseaux pour me contacter
 
