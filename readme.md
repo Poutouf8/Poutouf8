@@ -7,7 +7,8 @@
 <br/>
 
 ### Expérience professionnelle
-J'ai effectué un stage dans une entreprise nommée "Thales Underwater System". A l'aide de ce stage, j'ai pu m'imprégner dans le travail des 
+J'ai effectué un stage dans une entreprise nommée "Thales Underwater System". A l'aide de ce stage, j'ai pu m'imprégner dans leur travail, ils m'ont expliqué et détaillé chacun leurs différentes tâaches à travers l'usine.
+J'ai également réalisé à l'aide de Mathys Garoui un site wiki parlant des boutons fermant les portes d'ascenseurs et leurs "fonctionnement".
 <br/>
 ### Mes réseaux pour me contacter
 
