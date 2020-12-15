@@ -9,7 +9,7 @@
 
 ##Expérience professionnelle
 J'ai effectué un stage dans une entreprise nommée "Thales Underwater System". A l'aide de ce stage, j'ai pu m'imprégner dans le travail des 
-
+<br/>
 ### Mes réseaux pour me contacter
 
 nathandupont888@gmail.com
