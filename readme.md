@@ -3,7 +3,7 @@
 ## Je suis Etudiant à l'IUT Informatique d'Aix
 - Je suis actuellement en en première année d'étude
 - J'apprend le c++, html/css, sql/BD, tout ça sur Linux
-- FunFact : J'adore le sport notemment le streetworkout
+- FunFact : J'adore le sport notamment le streetworkout
 <br/>
 
 ### Expérience professionnelle
