@@ -7,11 +7,11 @@
 <br/>
 
 ### Expérience professionnelle
-J'ai effectué un stage dans une entreprise nommée "Thales Underwater System". A l'aide de ce stage, j'ai pu m'imprégner dans leur travail, ils m'ont expliqué et détaillé chacun leurs différentes tâaches à travers l'usine.
-J'ai également réalisé à l'aide de Mathys Garoui un site wiki parlant des boutons fermant les portes d'ascenseurs et leurs "fonctionnement".
+J'ai effectué un stage dans une entreprise nommée "Thales Underwater System". A l'aide de ce stage, j'ai pu m'imprégner dans leur travail, ils m'ont expliqué et détaillé chacun leurs différentes tâaches à travers l'usine.<br/>
+J'ai également réalisé à l'aide de Mathys Garoui un site wiki parlant des boutons fermant les portes d'ascenseurs et leurs "fonctionnement" [ici]
 <br/>
 ### Mes réseaux pour me contacter
 
 nathandupont888@gmail.com
 
-
+[ici]: https://boutons-de-fermeture-de-porte-des-ascenseurs.fandom.com/fr/wiki/Wiki_Boutons_de_fermeture_de_porte_des_ascenseurs#Comment_fonctionnent_les_boutons_de_l.27ascenseur_.3F
