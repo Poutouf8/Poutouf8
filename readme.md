@@ -1,13 +1,13 @@
-### Salut à toi Aventurier ! Je suis venu délivrer un message.
+### Salut ! Je suis Nathan Dupont - aka Pantoufle
 
-## Je suis Perseval de Blancherive
-- Je suis maire de mon village
-- Je fais de bonnne soupe
+## Je suis Etudiant à l'IUT Informatique d'Aix
+- Je suis actuellement en en première année d'étude
+- J'apprend le c++, html/css, sql/BD, tout ça sur Linux
 - Je suis en quête de détruire l'anneau
 
-### Mes réseaux sociaux pour me contacter
+### Mes réseaux pour me contacter
 
-[youtube]
+nathandupont888@gmail.com
 
 <br />
 <br />
