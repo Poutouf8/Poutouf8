@@ -15,3 +15,8 @@ J'ai également réalisé à l'aide de Mathys Garoui un site wiki parlant des bo
 nathandupont888@gmail.com
 
 [ici]: https://boutons-de-fermeture-de-porte-des-ascenseurs.fandom.com/fr/wiki/Wiki_Boutons_de_fermeture_de_porte_des_ascenseurs#Comment_fonctionnent_les_boutons_de_l.27ascenseur_.3F
+
+### A propos
+
+Bonjour je suis en évaluation en oral avec Mme Laurence Agnostinelli.
+<br/>
